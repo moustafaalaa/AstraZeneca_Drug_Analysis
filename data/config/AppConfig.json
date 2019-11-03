@@ -1,0 +1,12 @@
+{
+  "fdaConfigURL": "https://api.fda.gov/download.json",
+  "fdaConfigFilePath": "\\data\\fda_data\\fda_config\\download.json",
+  "fdaZippedPath": "\\data\\fda_data\\zipped\\",
+  "zipFileExtension": "zip",
+  "fdaUnZippedPath": "\\data\\fda_data\\unzipped\\",
+  "fdaDrugLabelDataExtension": "*.json",
+  "readFromLocal": false,
+  "filesLimit": 1,
+  "startingYear": "2009",
+  "unKnownRouteName": "UnKnownRoute"
+}

@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "last_updated": "2019-10-26",
+    "terms": "https://open.fda.gov/terms/",
+    "results": {
+      "skip": 0,
+      "total": 145289,
+      "limit": 20000
+    },
+    "license": "https://open.fda.gov/license/",
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service."
+  },
+  "results": [
+    {
+      "package_label_principal_display_panel": [
+        "PACKAGE LABEL DISPLAY: NDC 61062-0010-1 HOMEOPATHIC WLP 40 1 FL OZ (30ml) WLP 40"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS: Asclepias Vincetoxicum 6X, 12X, 30X, Echinacea (Angustifolia) 6X, 12X, 30X, Hypothalamus (suis) 6X, 12X, 30X, Brain (suis) 8X, Kidney (suis) 8X, Methylcobalamin 8X, Pancreas Suis 8X, AACG-A* 8X, 12X, 30X, 60X, 2000X, AACG-B* 8X, 12X, 30X, 60X, 2000X, Calcarea Carbonica 6X, 12X, 30X, Gambogia 6X, 12X, 30X, Gelsemium Sempervirens 6X, 12X, 30X, Graphites 6X, 12X, 30X, Nux Vomica 6X, 12X, 30X, Phytolacca Decandra 6X, 12X, 30X, 7-Keto-Dhea (Dehydroepiandrosterone) 30X, Adenosinum Triphosphoricum Dinatrum 30X, Glucagon 30X, Insulinum 30X, Sarcolacticum Acidum 30X, Proteus (Vulgaris) 30X"
+      ],
+      "warnings": [
+        "WARNINGS: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Tamper seal: Sealed for your protection. Do not use if seal is broken or missing."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS: demineralized water, 25% ethanol"
+      ],
+      "effective_time": "20160126",
+      "openfda": {
+        "manufacturer_name": [
+          "NCS HealthCare of KY, Inc dba Vangard Labs"
+        ],
+        "unii": [
+          "362O9ITL9D"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "rxcui": [
+          "198440"
+        ],
+        "spl_set_id": [
+          "3e22bac6-4f08-4395-aab2-2ce8655c3dc5"
+        ],
+        "route": [
+          "VAGINAL"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN"
+        ],
+        "brand_name": [
+          "Acetaminophen"
+        ],
+        "product_ndc": [
+          "0615-2542"
+        ],
+        "original_packager_product_ndc": [
+          "0904-1983"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN"
+        ],
+        "spl_id": [
+          "caf8ff07-80d7-4722-a882-ad2a2e4e6ef4"
+        ],
+        "application_number": [
+          "part343"
+        ],
+        "package_ndc": [
+          "0615-2542-39"
+        ]
+      },
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+      ],
+      "set_id": "f04a01eb-5619-47d7-ad5c-a0c847191eb3",
+      "spl_product_data_elements": [
+        "WLP40 Asclepias Vincetoxicum, Echinacea (Angustifolia), Hypothalamus (Suis), Brain (Suis), Hepar Suis, Kidney (Suis), Methylcobalamin, Pancreas Suis, Stomach (Suis), Aacg-A, Aacg-B, Calcarea Carbonica, Gambogia, Gelsemium Sempervirens, Graphites, Nux Vomica, Phytolacca Decandra, 7-Keto Dhea (Dehydroepiandrosterone), Adenosinum Triphosphoricum Dinatrum, Glucagon, Insulinum, Sarcolacticum Acidum, Proteus (Vulgaris) CYNANCHUM VINCETOXICUM ROOT CYNANCHUM VINCETOXICUM ROOT ECHINACEA ANGUSTIFOLIA ECHINACEA ANGUSTIFOLIA SUS SCROFA HYPOTHALAMUS SUS SCROFA HYPOTHALAMUS PORK BRAIN PORK BRAIN PORK LIVER PORK LIVER PORK KIDNEY PORK KIDNEY METHYLCOBALAMIN METHYLCOBALAMIN SUS SCROFA PANCREAS SUS SCROFA PANCREAS SUS SCROFA STOMACH SUS SCROFA STOMACH APC-356433 APC-356433 APC-356434 APC-356434 OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE GAMBOGE GAMBOGE GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT GRAPHITE GRAPHITE STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT PRASTERONE PRASTERONE ADENOSINE TRIPHOSPHATE DISODIUM ADENOSINE TRIPHOSPHATE GLUCAGON GLUCAGON INSULIN PORK INSULIN PORK LACTIC ACID, L- LACTIC ACID, L- PROTEUS VULGARIS PROTEUS VULGARIS WATER ALCOHOL"
+      ],
+      "dosage_and_administration": [
+        "DIRECTIONS: 10 drops under the tongue, 3 to 6 times per day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+      ],
+      "version": "3",
+      "purpose": [
+        "INDICATIONS: For temporary relief of symptoms related to increased appetite, regulation of fat metabolism, headache, fatigue and detoxification stress."
+      ],
+      "questions": [
+        "QUESTIONS: Distributed by Restivo Chiropractic 822 South Lake Blvd, Mahopac, New York 10541 www.mahopacmassage.com *Patent Pending Active Amino Chain Group A & B AACG-A contains 25 amino acids AACB-B contains 30 amino acids For more information contact Restivo Chiropractic"
+      ],
+      "id": "0937ef4e-4a6c-4f82-9de4-6d1cf8b15e3b",
+      "indications_and_usage": [
+        "INDICATIONS: For temporary relief of symptoms related to increased appetite, regulation of fat metabolism, headache, fatigue and detoxification stress."
+      ]
+    },
+    {
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL - 73 g Canister Label CLEAR GEL Secret® BRAZIL Rainforest Mist ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY ANTIPERSPIRANT/DEODORANT NET WT. 2.6 OZ (73 g) Principal Display Panel - 73 g Canister Label"
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts",
+        "Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202."
+      ],
+      "do_not_use": [
+        "Do not use on broken skin"
+      ],
+      "active_ingredient": [
+        "Active ingredient Aluminum zirconium octachlorohydrex Gly 16% (anhydrous)"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have kidney disease"
+      ],
+      "warnings": [
+        "Warnings For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients water, alcohol denat., cyclopentasiloxane, propylene glycol, dimethicone, trisiloxane, calcium chloride, PEG/PPG-18/18 dimethicone, fragrance."
+      ],
+      "effective_time": "20151223",
+      "openfda": {
+        "manufacturer_name": [
+          "NCS HealthCare of KY, Inc dba Vangard Labs"
+        ],
+        "unii": [
+          "362O9ITL9D"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "rxcui": [
+          "198440"
+        ],
+        "spl_set_id": [
+          "3e22bac6-4f08-4395-aab2-2ce8655c3dc5"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN"
+        ],
+        "brand_name": [
+          "Acetaminophen"
+        ],
+        "product_ndc": [
+          "0615-2542"
+        ],
+        "original_packager_product_ndc": [
+          "0904-1983"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN"
+        ],
+        "spl_id": [
+          "caf8ff07-80d7-4722-a882-ad2a2e4e6ef4"
+        ],
+        "application_number": [
+          "part343"
+        ],
+        "package_ndc": [
+          "0615-2542-39"
+        ]
+      },
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+      ],
+      "spl_product_data_elements": [
+        "Secret Brazil Clear Rainforest Mist Aluminum Zirconium Octachlorohydrex Gly Aluminum Zirconium Octachlorohydrex Gly Aluminum Zirconium Octachlorohydrex Gly WATER CYCLOMETHICONE 5 PROPYLENE GLYCOL DIMETHICONE TRISILOXANE CALCIUM CHLORIDE PEG/PPG-18/18 DIMETHICONE"
+      ],
+      "set_id": "64f1bcdd-54cd-4944-997d-d62249fb6804",
+      "dosage_and_administration": [
+        "Directions apply to underarms only apply 2-3 clicks as needed"
+      ],
+      "version": "2",
+      "stop_use": [
+        "Stop use if rash or irritation occurs"
+      ],
+      "purpose": [
+        "Purpose Antiperspirant"
+      ],
+      "questions": [
+        "Questions? 1-800-964-1947"
+      ],
+      "id": "13528b92-a281-4e43-b6d5-26f71d7ea2f3",
+      "indications_and_usage": [
+        "Use reduces underarm wetness"
+      ]
+    },
+    {
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL The OTC potency range of ILEX AQUI is 2x–30x, 1c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock, as the orders are filled. ‘Bottle Size,’ ‘Potency,’ and ‘Alcohol Percentage’ vary on the label depending on customer choice. Standard bottle sizes for dilution-form remedies are 15ml, 30ml, 50ml, and 100ml. Label"
+      ],
+      "active_ingredient": [
+        "ACTIVE INGREDIENTS ILEX AQUI"
+      ],
+      "warnings": [
+        "STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, consult your practitioner."
+      ],
+      "inactive_ingredient": [
+        "INACTIVE INGREDIENTS Sucrose/Lactose"
+      ],
+      "effective_time": "20181231",
+      "openfda": {
+        "manufacturer_name": [
+          "Washington Homeopathic Products"
+        ],
+        "unii": [
+          "147AL91LPR"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "spl_set_id": [
+          "91a90339-44e7-48e4-ae27-7788377c9e1c"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "generic_name": [
+          "ILEX AQUIFOLIUM FRUITING TOP"
+        ],
+        "upc": [
+          "0740640345382"
+        ],
+        "brand_name": [
+          "Ilex aquifolium"
+        ],
+        "product_ndc": [
+          "71919-358"
+        ],
+        "substance_name": [
+          "ILEX AQUIFOLIUM FRUITING TOP"
+        ],
+        "spl_id": [
+          "7e53ad9c-083a-9885-e053-2a91aa0a6f91"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "package_ndc": [
+          "71919-358-09",
+          "71919-358-08",
+          "71919-358-10",
+          "71919-358-07"
+        ]
+      },
+      "keep_out_of_reach_of_children": [
+        "KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children."
+      ],
+      "spl_product_data_elements": [
+        "Ilex aquifolium ILEX AQUIFOLIUM FRUITING TOP ALCOHOL WATER ILEX AQUIFOLIUM FRUITING TOP ILEX AQUIFOLIUM FRUITING TOP white"
+      ],
+      "set_id": "91a90339-44e7-48e4-ae27-7788377c9e1c",
+      "dosage_and_administration": [
+        "DIRECTIONS Adults: 4 drops into a tsp. of water 3 times a day. Children: 1/2 dose. Repeat at greater intervals as condition subsides. Or as directed bya lic. practitioner."
+      ],
+      "version": "2",
+      "purpose": [
+        "USES To relieve the symptoms of diarrhea."
+      ],
+      "id": "7e53ad9c-083a-9885-e053-2a91aa0a6f91",
+      "indications_and_usage": [
+        "INDICATIONS Indications: ILEX AQUI Diarrhea"
+      ]
+    },
+    {
+      "package_label_principal_display_panel": [
+        "PRINCIPAL DISPLAY PANEL NDC 63868-721-24 QUALITY CHOICE †Compare to Active Ingredients in SUDAFED PE® Pressure + Pain + Cold Pressure + Pain + Cough PE Pain Reliever / Fever Reducer, Nasal Decongestant, Expectorant, Cough Suppressant Acetaminophen, Phenylephrine HCl, Guaifenesin, Dextromethorphan HBr For Relief of: Sinus Headache / Sore Throat Sinus Pressure & Congestion Chest Congestion / Cough 24 Caplets 24 count"
+      ],
+      "purpose_table": [
+        "<table width=\"60%\"> <col width=\"50%\" align=\"left\" valign=\"top\"/> <col width=\"50%\" align=\"right\" valign=\"top\"/> <thead> <tr> <th> <content styleCode=\"italics\">Active ingredients  (in each caplet) </content> </th> <th> <content styleCode=\"italics\">Purposes</content> </th> </tr> </thead> <tbody> <tr> <td>Acetaminophen 325 mg</td> <td>Pain reliever/fever reducer</td> </tr> <tr> <td>Dextromethorphan HBr 10 mg</td> <td>Cough suppressant</td> </tr> <tr> <td>Guaifenesin 100 mg</td> <td>Expectorant</td> </tr> <tr> <td>Phenylephrine HCl 5 mg</td> <td>Nasal decongestant</td> </tr> </tbody> </table>"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition."
+      ],
+      "when_using": [
+        "When using this product do not exceed recommended dosage"
+      ],
+      "id": "7e533aa2-b8af-5b03-e053-2991aa0a442f",
+      "indications_and_usage": [
+        "Uses temporarily relieves these symptoms due to the common cold: nasal congestion headache minor aches and pains cough sore throat helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes and make coughs more productive temporarily reduces fever"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "spl_unclassified_section": [
+        "Drug Facts"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, crospovidone, FD&C yellow #6 aluminum lake, magnesium stearate, maltodextrin, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, stearic acid, talc, titanium dioxide"
+      ],
+      "do_not_use": [
+        "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients"
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "Chain Drug Marketing Association"
+        ],
+        "unii": [
+          "362O9ITL9D",
+          "04JA59TNSJ",
+          "9D2RTI9KYH",
+          "495W7451VQ"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "rxcui": [
+          "1098435"
+        ],
+        "spl_set_id": [
+          "96666654-43f5-4e09-b24f-850b6757d58b"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, AND PHENYLEPHRINE HYDROCHLORIDE"
+        ],
+        "upc": [
+          "0635515987401"
+        ],
+        "brand_name": [
+          "Pressure Pain Cold PE"
+        ],
+        "product_ndc": [
+          "63868-721"
+        ],
+        "substance_name": [
+          "GUAIFENESIN",
+          "DEXTROMETHORPHAN HYDROBROMIDE",
+          "PHENYLEPHRINE HYDROCHLORIDE",
+          "ACETAMINOPHEN"
+        ],
+        "spl_id": [
+          "7e533aa2-b8af-5b03-e053-2991aa0a442f"
+        ],
+        "application_number": [
+          "part341"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "package_ndc": [
+          "63868-721-24"
+        ]
+      },
+      "version": "2",
+      "dosage_and_administration": [
+        "Directions do not take more than directed (see overdose warning) adults and children 12 years and over take 2 caplets every 4 hours do not take more than 10 caplets in 24 hours children under 12 years ask a doctor"
+      ],
+      "effective_time": "20181231",
+      "spl_product_data_elements": [
+        "Pressure Pain Cold PE ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, and PHENYLEPHRINE HYDROCHLORIDE SILICON DIOXIDE CROSCARMELLOSE SODIUM CROSPOVIDONE FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL POVIDONE STARCH, CORN STEARIC ACID TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE AAA;1134"
+      ],
+      "purpose": [
+        "Active ingredients (in each caplet) Purposes Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 100 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin"
+      ],
+      "storage_and_handling": [
+        "Other information store between 20-25°C (68-77°F) in a dry place retain carton for complete product information"
+      ],
+      "overdosage": [
+        "Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "dosage_and_administration_table": [
+        "<table width=\"60%\"> <col width=\"30%\" valign=\"top\" align=\"left\"/> <col width=\"70%\" valign=\"top\" align=\"left\"/> <tbody> <tr styleCode=\"Botrule First\"> <td align=\"left\" styleCode=\"Rrule\">adults and children 12 years and over</td> <td align=\"left\"> <list listType=\"unordered\" styleCode=\"Square\"> <item>take 2 caplets every 4 hours</item> <item>do not take more than 10 caplets in 24 hours</item> </list> </td> </tr> <tr> <td align=\"left\" styleCode=\"Rrule\">children under 12 years</td> <td align=\"left\"> <list listType=\"unordered\" styleCode=\"Square\"> <item>ask a doctor</item> </list> </td> </tr> </tbody> </table>"
+      ],
+      "warnings": [
+        "Warnings Liver warning This product contains acetaminophen. The maximum daily dose of this product is 10 caplets (3,250 mg acetaminophen) in 24 hours. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommended dosage Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "active_ingredient_table": [
+        "<table width=\"60%\"> <col width=\"50%\" align=\"left\" valign=\"top\"/> <col width=\"50%\" align=\"right\" valign=\"top\"/> <thead> <tr> <th> <content styleCode=\"italics\">Active ingredients  (in each caplet) </content> </th> <th> <content styleCode=\"italics\">Purposes</content> </th> </tr> </thead> <tbody> <tr> <td>Acetaminophen 325 mg</td> <td>Pain reliever/fever reducer</td> </tr> <tr> <td>Dextromethorphan HBr 10 mg</td> <td>Cough suppressant</td> </tr> <tr> <td>Guaifenesin 100 mg</td> <td>Expectorant</td> </tr> <tr> <td>Phenylephrine HCl 5 mg</td> <td>Nasal decongestant</td> </tr> </tbody> </table>"
+      ],
+      "set_id": "96666654-43f5-4e09-b24f-850b6757d58b"
+    },
+    {
+      "package_label_principal_display_panel": [
+        "Principal Display Panel Acetaminophen Caplet 500mg bingo card label"
+      ],
+      "ask_doctor": [
+        "Ask a doctor before use if you have liver disease."
+      ],
+      "active_ingredient": [
+        "Active Ingredient (in each caplet) Acetaminophen 500mg"
+      ],
+      "stop_use": [
+        "Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition."
+      ],
+      "questions": [
+        "Questions or comments? Call (800) 616-2471 Distributed by: MAJOR PHARMACEUTICALS, 17177 N. Laurel Park Drive, Suite 233 Livonia, MI 48152 USA M-95 Rev 10/16"
+      ],
+      "id": "caf8ff07-80d7-4722-a882-ad2a2e4e6ef4",
+      "indications_and_usage": [
+        "Uses for the temporary relief of minor aches and pains due to: headache muscular aches backache minor pain of arthritis the common cold toothache premenstrual and menstrual cramps temporarily reduces fever"
+      ],
+      "pregnancy_or_breast_feeding": [
+        "If pregnant or breast-feeding, ask a health professional before use."
+      ],
+      "spl_unclassified_section": [
+        "Other information Store at room temperature"
+      ],
+      "inactive_ingredient": [
+        "Inactive ingredients Hypromellose, polyethylene glycol, povidone, pregelantinized starch, sodium starch glycolate, stearic acid"
+      ],
+      "do_not_use": [
+        "Do not use with any other drug containing acetaminophen (prescription or non prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product"
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "NCS HealthCare of KY, Inc dba Vangard Labs"
+        ],
+        "unii": [
+          "362O9ITL9D"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "rxcui": [
+          "198440"
+        ],
+        "spl_set_id": [
+          "3e22bac6-4f08-4395-aab2-2ce8655c3dc5"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "generic_name": [
+          "ACETAMINOPHEN"
+        ],
+        "brand_name": [
+          "Acetaminophen"
+        ],
+        "product_ndc": [
+          "0615-2542"
+        ],
+        "original_packager_product_ndc": [
+          "0904-1983"
+        ],
+        "substance_name": [
+          "ACETAMINOPHEN"
+        ],
+        "spl_id": [
+          "caf8ff07-80d7-4722-a882-ad2a2e4e6ef4"
+        ],
+        "application_number": [
+          "part343"
+        ],
+        "package_ndc": [
+          "0615-2542-39"
+        ]
+      },
+      "version": "18",
+      "warnings": [
+        "Warnings Liver Warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000mg in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or non prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug Warfarin. Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: In the case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "effective_time": "20171116",
+      "spl_product_data_elements": [
+        "Acetaminophen Acetaminophen ACETAMINOPHEN ACETAMINOPHEN HYPROMELLOSES POLYETHYLENE GLYCOLS POVIDONE STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID GPI;A5 Biconvex"
+      ],
+      "dosage_and_administration": [
+        "Directions Do not take more than directed (see overdose warning) adults and children 12 years and over: take 2 caplets every 6 hours while symptoms last do not take more than 6 caplets in 24 hours unless directed by a doctor do not take for more than 10 days unless directed by a doctor children under 12 years: ask a doctor"
+      ],
+      "purpose": [
+        "Purpose Pain Reliever/Fever Reducer"
+      ],
+      "ask_doctor_or_pharmacist": [
+        "Ask a doctor or pharmacist before use if you are taking the blood thinning drug Warfarin."
+      ],
+      "overdosage": [
+        "Overdose warning: In the case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+      ],
+      "keep_out_of_reach_of_children": [
+        "Keep out of reach of children."
+      ],
+      "set_id": "3e22bac6-4f08-4395-aab2-2ce8655c3dc5"
+    }
+  ]
+}
