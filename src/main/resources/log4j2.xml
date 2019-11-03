@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%d{YYYY-MM-dd HH:mm:ss} %highlight{%-5level}{FATAL=red blink, ERROR=red, DEBUG=yellow bold, INFO=green bold, DEBUG=blue bold, TRACE=cyan} %style{%replace{%c{1}}{\$}{}:%L}{cyan} - %m%n"
+                    disableAnsi="false"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Root>
+        <Logger name="com.astrazeneca" level="${sys:modelLogLevel:-INFO}"/>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>${group.id}</groupId>
+    <artifactId>${artifact.id}</artifactId>
+    <version>${model.version}</version>
+
+    <dependencies>
+        <!-- Spark -->
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-core_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-hive_${scala.version}</artifactId>
+            <version>${spark.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.thoughtworks.paranamer</groupId>
+            <artifactId>paranamer</artifactId>
+            <version>2.8</version>
+        </dependency>
+
+        <!-- tests -->
+        <dependency>
+            <groupId>org.scalatest</groupId>
+            <artifactId>scalatest_${scala.version}</artifactId>
+            <version>3.0.5</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <artifactId>junit</artifactId>
+            <groupId>junit</groupId>
+            <version>4.10</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.holdenkarau</groupId>
+            <artifactId>spark-testing-base_${scala.version}</artifactId>
+            <version>2.3.0_0.12.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!--Logging -->
+
+        <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api-scala -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api-scala_2.11</artifactId>
+            <version>11.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <version>2.11.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>2.11.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.jcabi</groupId>
+            <artifactId>jcabi-log</artifactId>
+            <version>LATEST</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.json4s/json4s-jackson -->
+        <dependency>
+            <groupId>org.json4s</groupId>
+            <artifactId>json4s-jackson_2.11</artifactId>
+            <version>3.5.0</version>
+        </dependency>
+
+
+        <!-- https://mvnrepository.com/artifact/org.scala-lang/scala-library -->
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>${scala.version}.7</version>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <version>2.4</version>
+                <configuration>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.astrazeneca.MainEntry</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <spark.version>2.3.0</spark.version>
+        <scala.version>2.11</scala.version>
+        <project.encoding>UTF-8</project.encoding>
+
+        <argLine>-Dfile.encoding=UTF-8 -Dlog4j.skipJansi=false -DmodelLogLevel=${modelLogLevel}</argLine>
+        <modelLogLevel>DEBUG</modelLogLevel>
+
+        <tar.name>${artifact.id}_source-${model.version}</tar.name>
+        <final.version>${artifact.id}_source-${model.version}</final.version>
+        <build.number.dir>${project.basedir}/buildNumber.properties</build.number.dir>
+        <java.source.version>1.8</java.source.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+
+        <!-- Dependency Versions -->
+        <!--<scala.version>2.11.8</scala.version>-->
+        <scala.binary.version>2.11</scala.binary.version>
+        <scala.xml.version>1.0.6</scala.xml.version>
+        <scala.parser.version>1.0.4</scala.parser.version>
+        <scala.swing.version>2.0.0-M2</scala.swing.version>
+
+        <spark.test.base.version>0.9.0</spark.test.base.version>
+
+        <!-- Plugin Versions -->
+
+        <log4j.version>2.11.0</log4j.version>
+
+        <group.id>com.astrazeneca</group.id>
+        <artifact.id>drug-analysis</artifact.id>
+        <!-- Do not change build.type manually. It's injected automatically during the Jenkins build -->
+        <build.type>snapshot</build.type>
+        <major.minor.version>0.1</major.minor.version>
+        <!-- here I am trying to retrieve the actual number-->
+        <build.number>${buildNumber}</build.number>
+        <model.version>${major.minor.version}.${build.number}.${build.type}</model.version>
+    </properties>
+
+</project>
