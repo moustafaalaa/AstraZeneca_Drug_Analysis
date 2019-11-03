@@ -17,6 +17,7 @@ Application configuration available under ```/data/config/AppConfig.json```
 }
 ```
 
+```
 /** A AppConfigRules case class represent the options for the application running
     *
     * @param fdaConfigURL: String Url for the fda meta data
@@ -30,7 +31,7 @@ Application configuration available under ```/data/config/AppConfig.json```
     * @param startingYear: String starting year for analysis.
     * @param unKnownRouteName: String in string to replace the route name in case the route is null
     */
-
+```
 
 ## Part A
 
